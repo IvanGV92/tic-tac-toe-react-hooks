@@ -1,0 +1,21 @@
+.game-div{
+  width: 200px;
+  margin: 20px auto;
+  font-size: 21px;
+  font-weight: 400;
+  font-family: 'Helvetica Neue', Helvetica, Arial, Roboto, sans-serif;
+}
+
+
+.info-message{
+  margin-left:16%;
+}
+
+.action-button{
+  background-color: #122343;
+  border: 15px solid #fff;
+  color:#fff;
+  font-weight: 500;
+  font-size: 1rem;
+}
+

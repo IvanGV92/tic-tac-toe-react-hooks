@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Testing Board should render a Square correctly 1`] = `
+<button
+  onClick={[MockFunction]}
+  style={
+    Object {
+      "background": "#122343",
+      "border": "2px solid white",
+      "color": "white",
+      "cursor": "pointer",
+      "fontSize": "30px",
+      "fontWeight": "80",
+      "outline": "none",
+    }
+  }
+/>
+`;
+
+exports[`App Testing Board should render the Board correctly 1`] = `
+<div
+  style={
+    Object {
+      "border": "4px solid #122343",
+      "borderRadius": "10px",
+      "display": "grid",
+      "gridTemplate": "repeat(3, 1fr) / repeat(3, 1fr)",
+      "height": "250px",
+      "margin": "20px auto",
+      "width": "250px",
+    }
+  }
+>
+  <Square
+    key="0"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="1"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="2"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="3"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="4"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="5"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="6"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="7"
+    onClick={[Function]}
+    value={null}
+  />
+  <Square
+    key="8"
+    onClick={[Function]}
+    value={null}
+  />
+</div>
+`;
